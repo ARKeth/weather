@@ -33,5 +33,3 @@ describe('MainComponent', () => {
     expect(compiled.querySelector('h1').textContent).toContain('Welcome to my Weather App!');
   }));
 });
-
-https://github.com/ARKeth/weather.git
